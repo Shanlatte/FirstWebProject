@@ -1,6 +1,10 @@
 var titulo = "";
-
+'use strict';
+$(window).load(function() {
+    $('.loader').delay(500).fadeOut('slow');
+});
 $(document).ready(function() {
+
 
     'use strict';
 
