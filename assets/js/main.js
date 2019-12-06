@@ -61,7 +61,7 @@ $(document).ready(function() {
      
     //-------------------- FUncion que simula un contador------------------------------------------
    
-     var countDownDate = new Date("Dec 6, 2023 15:37:25").getTime();
+     var countDownDate = new Date("Dec 17, 2020 15:37:25").getTime();
 
      var x = setInterval(function() {
      
